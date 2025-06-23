@@ -1,0 +1,10 @@
+state,city,presence,contact
+California,Los Angeles,direct,John Doe
+California,San Diego,direct,John Doe
+California,San Francisco,direct,John Doe
+New York,New York,importer,Jane Smith
+New York,Buffalo,importer,Jane Smith
+New York,Rochester,importer,Jane Smith
+Texas,Houston,none,
+Texas,San Antonio,none,
+Texas,Dallas,none,

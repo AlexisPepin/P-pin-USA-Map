@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #fafafa;
+  color: #333;
+}
+
+h1 {
+  margin: 1rem 0 0 0;
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+#map {
+  margin: 1rem auto;
+  width: 95vw;
+  max-width: 700px;
+  height: 75vh;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+}
+
+footer {
+  text-align: center;
+  font-size: 0.95rem;
+  margin: 1rem 0;
+}
+
+@media (max-width: 600px) {
+  #map {
+    width: 99vw;
+    height: 65vh;
+  }
+  h1 {
+    font-size: 1.1rem;
+  }
+}
